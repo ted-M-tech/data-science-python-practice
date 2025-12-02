@@ -1,0 +1,1 @@
+DROP VIEW IF EXISTS film_rantal_info;
