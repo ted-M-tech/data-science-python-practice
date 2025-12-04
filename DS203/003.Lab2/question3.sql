@@ -1,0 +1,1 @@
+CREATE INDEX idx_actor_first_last_name ON actor(first_name, last_name);
